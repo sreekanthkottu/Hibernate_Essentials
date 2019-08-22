@@ -1,0 +1,4 @@
+These configurations contain the mapping information that provides different functionalities to Java classes.
+Generally, we provide database related mappings in the configuration file. 
+Hibernate provide the configurations either in an XML file (like hibernate.cfg.xml) or properties file (like hibernate.properties). 
+This file is kept in the root directory of your application's classpath.
